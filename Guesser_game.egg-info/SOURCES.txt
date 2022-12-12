@@ -1,0 +1,8 @@
+setup.py
+Guesser_game/GuesserGame.py
+Guesser_game/__init__.py
+Guesser_game/numberGuesserGame.py
+Guesser_game.egg-info/PKG-INFO
+Guesser_game.egg-info/SOURCES.txt
+Guesser_game.egg-info/dependency_links.txt
+Guesser_game.egg-info/top_level.txt
